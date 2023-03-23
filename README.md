@@ -1,2 +1,2 @@
 # quiz-application
-this is my first file
+this is my first file of scm
